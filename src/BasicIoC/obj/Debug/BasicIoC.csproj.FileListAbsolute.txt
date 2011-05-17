@@ -1,0 +1,10 @@
+D:\Frameworks\SimpleIoC\src\SimpleIoC\bin\Debug\BasicIoC.dll
+D:\Frameworks\SimpleIoC\src\SimpleIoC\bin\Debug\BasicIoC.pdb
+D:\Frameworks\SimpleIoC\src\SimpleIoC\obj\Debug\ResolveAssemblyReference.cache
+D:\Frameworks\SimpleIoC\src\SimpleIoC\obj\Debug\BasicIoC.dll
+D:\Frameworks\SimpleIoC\src\SimpleIoC\obj\Debug\BasicIoC.pdb
+D:\Frameworks\BasicIoC\src\BasicIoC\bin\Debug\BasicIoC.dll
+D:\Frameworks\BasicIoC\src\BasicIoC\bin\Debug\BasicIoC.pdb
+D:\Frameworks\BasicIoC\src\BasicIoC\obj\Debug\ResolveAssemblyReference.cache
+D:\Frameworks\BasicIoC\src\BasicIoC\obj\Debug\BasicIoC.dll
+D:\Frameworks\BasicIoC\src\BasicIoC\obj\Debug\BasicIoC.pdb

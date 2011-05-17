@@ -1,0 +1,5 @@
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\bin\Debug\SimpleIoC.Tests.dll
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\bin\Debug\SimpleIoC.Tests.pdb
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\obj\Debug\SimpleIoC.Tests.dll
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\obj\Debug\SimpleIoC.Tests.pdb

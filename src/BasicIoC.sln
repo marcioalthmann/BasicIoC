@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicIoC", "BasicIoC\BasicIoC.csproj", "{56E35336-CD5B-41A6-9D21-AF6D2AF37426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicIoC.Tests", "BasicIoC.Tests\BasicIoC.Tests.csproj", "{1010371A-5058-4FB5-9F5D-6B6755F2E166}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C3E73E23-BCB0-4D2F-88C4-FC671F76DBC0}"
+	ProjectSection(SolutionItems) = preProject
+		BasicIoC.vsmdi = BasicIoC.vsmdi
+		BasicIoC1.vsmdi = BasicIoC1.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = BasicIoC1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E35336-CD5B-41A6-9D21-AF6D2AF37426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E35336-CD5B-41A6-9D21-AF6D2AF37426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E35336-CD5B-41A6-9D21-AF6D2AF37426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E35336-CD5B-41A6-9D21-AF6D2AF37426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1010371A-5058-4FB5-9F5D-6B6755F2E166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1010371A-5058-4FB5-9F5D-6B6755F2E166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1010371A-5058-4FB5-9F5D-6B6755F2E166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1010371A-5058-4FB5-9F5D-6B6755F2E166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

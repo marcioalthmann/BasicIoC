@@ -1,0 +1,12 @@
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\bin\Debug\BasicIoC.Tests.dll
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\bin\Debug\BasicIoC.Tests.pdb
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\obj\Debug\BasicIoC.Tests.dll
+D:\Frameworks\SimpleIoC\src\SimpleIoC.Tests\obj\Debug\BasicIoC.Tests.pdb
+D:\Frameworks\BasicIoC\src\BasicIoC.Tests\bin\Debug\BasicIoC.Tests.dll
+D:\Frameworks\BasicIoC\src\BasicIoC.Tests\bin\Debug\BasicIoC.Tests.pdb
+D:\Frameworks\BasicIoC\src\BasicIoC.Tests\bin\Debug\BasicIoC.dll
+D:\Frameworks\BasicIoC\src\BasicIoC.Tests\bin\Debug\BasicIoC.pdb
+D:\Frameworks\BasicIoC\src\BasicIoC.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Frameworks\BasicIoC\src\BasicIoC.Tests\obj\Debug\BasicIoC.Tests.dll
+D:\Frameworks\BasicIoC\src\BasicIoC.Tests\obj\Debug\BasicIoC.Tests.pdb

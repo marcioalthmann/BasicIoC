@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="1010371A-5058-4FB5-9F5D-6B6755F2E166" ModuleId="BasicIoC.Tests" />
+  <Module PersistentId="56E35336-CD5B-41A6-9D21-AF6D2AF37426" ModuleId="BasicIoC" />
+</Modules>
