@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Component.cs" />
     <Compile Include="Container.cs" />
+    <Compile Include="LifeStyle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

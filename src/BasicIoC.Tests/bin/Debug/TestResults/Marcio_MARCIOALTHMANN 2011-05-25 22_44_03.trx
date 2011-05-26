@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c3061bd6-e68b-4f77-938c-28dce4484e9c" name="Marcio@MARCIOALTHMANN 2011-05-25 22:44:03" runUser="marcioalthmann\Marcio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4c5d8efd-9a20-44f0-84d3-90b2f595beef">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Marcio_MARCIOALTHMANN 2011-05-25 22_44_03" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-05-25T22:44:03.6906029-03:00" queuing="2011-05-25T22:44:04.2076325-03:00" start="2011-05-25T22:44:04.5756536-03:00" finish="2011-05-25T22:44:04.9396744-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="RegisterAndResoleClassByInterface" storage="d:\frameworks\basicioc\src\basicioc.tests\bin\debug\basicioc.tests.dll" id="2941f5f1-d32e-ccca-4d3d-64a778b3272b">
+      <Execution timeOut="1800000" id="b36bdc30-6abf-4313-9050-e87208382e7a" />
+      <TestMethod codeBase="D:/Frameworks/BasicIoC/src/BasicIoC.Tests/bin/Debug/BasicIoC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BasicIoC.Tests.ContainerTests, BasicIoC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RegisterAndResoleClassByInterface" />
+    </UnitTest>
+    <UnitTest name="RegisterAndResolveClassByType" storage="d:\frameworks\basicioc\src\basicioc.tests\bin\debug\basicioc.tests.dll" id="3818bdb2-7a04-d365-22f0-d583cdb4796f">
+      <Execution timeOut="1800000" id="d2227113-5a0c-4be8-b23e-66d71bdba6cd" />
+      <TestMethod codeBase="D:/Frameworks/BasicIoC/src/BasicIoC.Tests/bin/Debug/BasicIoC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BasicIoC.Tests.ContainerTests, BasicIoC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RegisterAndResolveClassByType" />
+    </UnitTest>
+    <UnitTest name="WhenResolveAClassTwoTimesReturnTheSameInstanceWithSingletonLifeStyle" storage="d:\frameworks\basicioc\src\basicioc.tests\bin\debug\basicioc.tests.dll" id="be98ced2-c3ca-04ea-844d-fe548195ce00">
+      <Execution timeOut="1800000" id="ce269b5f-93f4-48ad-ad9f-da4f42d93610" />
+      <TestMethod codeBase="D:/Frameworks/BasicIoC/src/BasicIoC.Tests/bin/Debug/BasicIoC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BasicIoC.Tests.ContainerTests, BasicIoC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WhenResolveAClassTwoTimesReturnTheSameInstanceWithSingletonLifeStyle" />
+    </UnitTest>
+    <UnitTest name="WhenResolveAClassTwoTimesReturnTwoDiferentInstancesWithTransientLifeStyle" storage="d:\frameworks\basicioc\src\basicioc.tests\bin\debug\basicioc.tests.dll" id="4b70c67d-f34d-0bec-9667-07b67674d0ea">
+      <Execution timeOut="1800000" id="d4d6b3db-02d4-4ddb-9060-1147c235d179" />
+      <TestMethod codeBase="D:/Frameworks/BasicIoC/src/BasicIoC.Tests/bin/Debug/BasicIoC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BasicIoC.Tests.ContainerTests, BasicIoC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WhenResolveAClassTwoTimesReturnTwoDiferentInstancesWithTransientLifeStyle" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2941f5f1-d32e-ccca-4d3d-64a778b3272b" executionId="b36bdc30-6abf-4313-9050-e87208382e7a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3818bdb2-7a04-d365-22f0-d583cdb4796f" executionId="d2227113-5a0c-4be8-b23e-66d71bdba6cd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="be98ced2-c3ca-04ea-844d-fe548195ce00" executionId="ce269b5f-93f4-48ad-ad9f-da4f42d93610" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b70c67d-f34d-0bec-9667-07b67674d0ea" executionId="d4d6b3db-02d4-4ddb-9060-1147c235d179" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b36bdc30-6abf-4313-9050-e87208382e7a" testId="2941f5f1-d32e-ccca-4d3d-64a778b3272b" testName="RegisterAndResoleClassByInterface" computerName="MARCIOALTHMANN" duration="00:00:00.0352787" startTime="2011-05-25T22:44:04.6636586-03:00" endTime="2011-05-25T22:44:04.7936660-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b36bdc30-6abf-4313-9050-e87208382e7a">
+    </UnitTestResult>
+    <UnitTestResult executionId="d2227113-5a0c-4be8-b23e-66d71bdba6cd" testId="3818bdb2-7a04-d365-22f0-d583cdb4796f" testName="RegisterAndResolveClassByType" computerName="MARCIOALTHMANN" duration="00:00:00.0084396" startTime="2011-05-25T22:44:04.7986663-03:00" endTime="2011-05-25T22:44:04.8236677-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d2227113-5a0c-4be8-b23e-66d71bdba6cd">
+    </UnitTestResult>
+    <UnitTestResult executionId="ce269b5f-93f4-48ad-ad9f-da4f42d93610" testId="be98ced2-c3ca-04ea-844d-fe548195ce00" testName="WhenResolveAClassTwoTimesReturnTheSameInstanceWithSingletonLifeStyle" computerName="MARCIOALTHMANN" duration="00:00:00.0014202" startTime="2011-05-25T22:44:04.8306681-03:00" endTime="2011-05-25T22:44:04.8326683-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce269b5f-93f4-48ad-ad9f-da4f42d93610">
+    </UnitTestResult>
+    <UnitTestResult executionId="d4d6b3db-02d4-4ddb-9060-1147c235d179" testId="4b70c67d-f34d-0bec-9667-07b67674d0ea" testName="WhenResolveAClassTwoTimesReturnTwoDiferentInstancesWithTransientLifeStyle" computerName="MARCIOALTHMANN" duration="00:00:00.0016419" startTime="2011-05-25T22:44:04.8366685-03:00" endTime="2011-05-25T22:44:04.8386686-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4d6b3db-02d4-4ddb-9060-1147c235d179">
+    </UnitTestResult>
+  </Results>
+</TestRun>
